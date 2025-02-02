@@ -11,12 +11,25 @@ I'm constantly working on projects that turn data into actionable insights, aimi
 - **Data Visualization**: Communicating data stories through dynamic visualizations using **Power BI**, **Tableau**, and **Python** libraries.
 
 ## 🎓 Certifications
-- **Advanced Data Analyst Certificate** from Google
-- **Microsoft Certification in Data Analysis** (LinkedIn Learning)
-- **Data Analysis Bootcamp** (DUCAT)
+- **Google GA4 Analytics Certification**        (skillshop)         Jan2025
+- **Google Advanced Data Analytics**            (coursera)          Jan2025
+- **IBM Generative AI for Data Analysts**       (coursera)          Jan2025
+- **Microsoft Certification in Data Analysis**  (linkdin learning)  Jul2024
+- **Data Analytics Bootcamp**                   (DUCAT)             Jan2024
+- **Business Analysis & Process Management**    (coursera)          May2024
 
 ## 🚀 Projects
-- **SQL & Python Projects**: to be updated
+### 📊 Interactive Amazon Prime Dashboard | Power BI  
+- Designed a dynamic dashboard analyzing 10,000+ titles, improving user engagement by 20% through interactive drill-downs.  
+- Leveraged DAX measures for real-time KPIs and implemented slicers/filters for data exploration.  
+
+### ☕ Coffee Shop Operations Optimization | Excel  
+- Reduced labor costs by 15% and boosted sales by 10% by analyzing customer trends and automating workflows with VBA.  
+
+### 🍕 SQL Sales Analysis | SQL & Python  
+- Identified top-performing products in pizza sales data, driving a 12% revenue increase through targeted promotions.  
+- Conducted in-depth SQL queries to analyze order trends, revenue distribution, and category-wise performance.  
+
 
 <!---
 Annshulsajwan/Annshulsajwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

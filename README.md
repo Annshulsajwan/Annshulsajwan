@@ -32,7 +32,7 @@ Detail-oriented **Data Analyst** with expertise in **Python, SQL, Excel, and Pow
   - Utilized **DAX measures** for dynamic KPIs and user-friendly filters.  
 - **Impact**: Improved user engagement by **20%** through intuitive visualizations.  
 - **Tools**: Power BI, DAX, Excel.  
-- [View Project](#)  
+- [View Project](https://github.com/Annshulsajwan/t-Amazon-Prime-Dashboard-Project)  
 
 ### **2. Coffee Shop Operations Optimization | Excel**  
 - **Goal**: Reduce operational costs and boost sales using data-driven strategies.  
